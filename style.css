@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  font family: sans-serif;
+}
+.hero{
+  width: 50%;
+  display: flex;
+  
+}
+.row{
+  width: 90%;
+  height: 80vh;
+  margin: auto;
+  display: flex;
+  align-item: center;
+  justify-content: space-between;
+  
+  
+}
+.dummy{
+  width:100%;
+}
+.col{
+  flex-basis: 45%;
+  
+}
+
+
+.product img{
+  height: 70vh;
+  margin-top: 20%;
+}
+.btn{
+  background-color: blue;
+}
